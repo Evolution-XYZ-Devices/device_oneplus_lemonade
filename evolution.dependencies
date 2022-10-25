@@ -1,0 +1,10 @@
+[
+  {
+    "repository"  : "device_oneplus_sm8350-common",
+    "target_path" : "device/oneplus/sm8350-common"
+  },
+  {
+    "repository"  : "vendor_oneplus_lemonade",
+    "target_path" : "vendor/oneplus/lemonade"
+  }
+]
