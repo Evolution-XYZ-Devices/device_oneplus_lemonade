@@ -1,7 +1,7 @@
 [
   {
     "repository"  : "device_oneplus_sm8350-common",
-    "branch"      : "tiramisu-9series",
+    "branch"      : "tiramisu",
     "target_path" : "device/oneplus/sm8350-common"
   },
   {
