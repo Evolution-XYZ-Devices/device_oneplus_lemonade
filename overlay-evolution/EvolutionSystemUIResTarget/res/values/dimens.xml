@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2019 Paranoid Android
+                   2022-2024 The Evolution X Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Alert Slider UI for OnePlus 9 -->
+    <dimen name="tri_state_down_dialog_position">556px</dimen>
+    <dimen name="tri_state_down_dialog_position_l">442px</dimen>
+    <dimen name="tri_state_middle_dialog_position">425px</dimen>
+    <dimen name="tri_state_middle_dialog_position_l">442px</dimen>
+    <dimen name="tri_state_up_dialog_position">294px</dimen>
+    <dimen name="tri_state_up_dialog_position_l">442px</dimen>
+    <dimen name="tri_state_up_dialog_position_deep">24px</dimen>
+    <dimen name="tri_state_up_dialog_position_deep_land">24px</dimen>
+
+</resources>
